@@ -1,0 +1,25 @@
+{
+    "name": "Snaffler",
+    "version": "v0.0.0",
+    "command_name": "snaffler",
+    "original_author": "0xthirteen",
+    "repo_url": "https://github.com/sliverarmory/Snaffler",
+    "help": "Remote Desktop Protocol .NET Console Application for Authenticated Command Execution",
+    "entrypoint": "Main",
+    "allow_args": true,
+    "default_args": "-h",
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "path": "Snaffler.exe"
+      },
+      {
+        "os": "windows",
+        "arch": "386",
+        "path": "Snaffler.exe"
+      }
+    ]
+  }
