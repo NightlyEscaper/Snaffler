@@ -2,7 +2,7 @@
     "name": "Snaffler",
     "version": "v0.0.0",
     "command_name": "snaffler",
-    "original_author": "0xthirteen",
+    "original_author": "SnaffCon",
     "repo_url": "https://github.com/sliverarmory/Snaffler",
     "help": "Remote Desktop Protocol .NET Console Application for Authenticated Command Execution",
     "entrypoint": "Main",
